@@ -3,12 +3,12 @@
 crowdsourced problem hosting
 
 ## Web
-* crypt
-* easycipher
-* ~~blueprint~~ *missing problem text*
-* feud
-* red-pwn-is
-* Cookie Recipes
+* ~~crypt~~
+* ~~easycipher~~
+* ~~blueprint~~
+* ~~feud~~
+* ~~red-pwn-is~~
+* ~~Cookie Recipes~~
 
 ## Misc
 * Discord
