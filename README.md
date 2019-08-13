@@ -19,7 +19,7 @@ crowdsourced problem hosting
 * genericpyjail2
 * ~~expobash~~
 * ~~l-star~~ *missing problem text*
-* mallcop
+* ~~mallcop~~ *missing problem text*
 
 ## Forensics
 * msb
