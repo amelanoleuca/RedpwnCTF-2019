@@ -11,15 +11,15 @@ crowdsourced problem hosting
 * ~~Cookie Recipes~~
 
 ## Misc
-* Discord
+* ~~Discord~~
 * ~~Tux Trivia Show~~
 * ~~genericpyjail~~
-* ~~MC Password Storage~~ *missing problem text*
+* ~~MC Password Storage~~
 * ~~he sed she sed~~
-* genericpyjail2
+* ~~genericpyjail2~~
 * ~~expobash~~
-* ~~l-star~~ *missing problem text*
-* ~~mallcop~~ *missing problem text*
+* ~~l-star~~
+* ~~mallcop~~
 
 ## Forensics
 * msb
@@ -38,20 +38,21 @@ crowdsourced problem hosting
 * Every Encoding Ever
 
 ## Pwn
-* BabbyPwn
-* Rot26
-* Zipline
-* HARDMODE
-* Bronze Ropchain
-* Stop, ROP, n', Roll
-* Dennis Says
-* penpal world
-* Black Echo
-* Knuth
+* ~~BabbyPwn~~
+* ~~Rot26~~
+* ~~Zipline~~
+* ~~HARDMODE~~
+* ~~Bronze Ropchain~~
+* ~~Stop, ROP, n', Roll~~
+* ~~Dennis Says~~
+* ~~penpal world~~
+* ~~Black Echo~~
+* ~~Knuth~~
+* ~~Ascent to Kernel Land~~
 
-## Reversing
-* Generic Crackme
-* Generic Crackme Redux
-* JavaIsEZ
-* ~~hell.c~~ *missing problem text*
+## Reverse Engineering
+* ~~Generic Crackme~~
+* ~~Generic Crackme Redux~~
+* ~~JavaIsEZ~~
+* ~~hell.c~~
 * ~~Virtual Toy~~
