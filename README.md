@@ -30,12 +30,13 @@ crowdsourced problem hosting
 * ducks
 
 ## Cryptography
-* Dunce Crypto
-* Super Hash
-* Trinity
+* ~~Dunce Crypto~~
+* ~~Super Hash~~
+* ~~Trinity~~
 * ~~Alien Transmissions~~
-* 010000100110100101101110011000010111001001111001
-* Every Encoding Ever
+* ~~010000100110100101101110011000010111001001111001~~
+* ~~Every Encoding Ever~~
+* ~~RPG Fanfiction~~
 
 ## Pwn
 * ~~BabbyPwn~~
