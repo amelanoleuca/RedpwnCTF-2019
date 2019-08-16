@@ -28,22 +28,13 @@
 * ducks
 
 ## Cryptography
-<<<<<<< HEAD
-* ~~Dunce Crypto~~
-* ~~Super Hash~~
-* ~~Trinity~~
-* ~~Alien Transmissions~~
-* ~~010000100110100101101110011000010111001001111001~~
-* ~~Every Encoding Ever~~
-* ~~RPG Fanfiction~~
-=======
 * Dunce Crypto
 * Super Hash
 * Trinity
 * Alien Transmissions
 * 010000100110100101101110011000010111001001111001
 * Every Encoding Ever
->>>>>>> 6497d78
+* RPG Fanfiction
 
 ## Pwn
 * BabbyPwn
