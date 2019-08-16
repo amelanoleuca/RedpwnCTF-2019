@@ -1,25 +1,23 @@
 # RedpwnCTF-2019
 
-crowdsourced problem hosting
-
 ## Web
-* ~~crypt~~
-* ~~easycipher~~
-* ~~blueprint~~
-* ~~feud~~
-* ~~red-pwn-is~~
-* ~~Cookie Recipes~~
+* crypt
+* easycipher
+* blueprint
+* feud
+* red-pwn-is
+* Cookie Recipes
 
 ## Misc
-* ~~Discord~~
-* ~~Tux Trivia Show~~
-* ~~genericpyjail~~
-* ~~MC Password Storage~~
-* ~~he sed she sed~~
-* ~~genericpyjail2~~
-* ~~expobash~~
-* ~~l-star~~
-* ~~mallcop~~
+* Discord
+* Tux Trivia Show
+* genericpyjail
+* MC Password Storage
+* he sed she sed
+* genericpyjail2
+* expobash
+* l-star
+* mallcop
 
 ## Forensics
 * msb
@@ -33,26 +31,26 @@ crowdsourced problem hosting
 * Dunce Crypto
 * Super Hash
 * Trinity
-* ~~Alien Transmissions~~
+* Alien Transmissions
 * 010000100110100101101110011000010111001001111001
 * Every Encoding Ever
 
 ## Pwn
-* ~~BabbyPwn~~
-* ~~Rot26~~
-* ~~Zipline~~
-* ~~HARDMODE~~
-* ~~Bronze Ropchain~~
-* ~~Stop, ROP, n', Roll~~
-* ~~Dennis Says~~
-* ~~penpal world~~
-* ~~Black Echo~~
-* ~~Knuth~~
-* ~~Ascent to Kernel Land~~
+* BabbyPwn
+* Rot26
+* Zipline
+* HARDMODE
+* Bronze Ropchain
+* Stop, ROP, n', Roll
+* Dennis Says
+* penpal world
+* Black Echo
+* Knuth
+* Ascent to Kernel Land
 
 ## Reverse Engineering
-* ~~Generic Crackme~~
-* ~~Generic Crackme Redux~~
-* ~~JavaIsEZ~~
-* ~~hell.c~~
-* ~~Virtual Toy~~
+* Generic Crackme
+* Generic Crackme Redux
+* JavaIsEZ
+* hell.c
+* Virtual Toy
