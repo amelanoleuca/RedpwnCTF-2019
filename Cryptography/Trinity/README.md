@@ -1,6 +1,7 @@
 #Trinity
 
 Written by: blevy
+=======
 
 redpwn claims to have invented an unbreakable "trinity encoding." Security by obscurity!
 
@@ -9,4 +10,3 @@ redpwn claims to have invented an unbreakable "trinity encoding." Security by ob
 NB: This challenge does not use the flag{...} format. The flag is only lowercase letters.
 
 Hint: The encoding is so simple, even your grandma knows about it!
-
